@@ -40,7 +40,7 @@ const Footer = () => {
 								<div className="col">
 									<ul className="footer-links">
 										<li>
-											<Link to="#">Blogs</Link>
+											<Link to="/blog">Blogs</Link>
 										</li>
 										<li>
 											<Link to="/all-airports">All Airports</Link>
@@ -53,23 +53,23 @@ const Footer = () => {
 								<div className="col">
 									<ul className="footer-links">
 										<li>
-											<Link to="#">FAQs</Link>
+											<Link to="/faqs">FAQs</Link>
 										</li>
 										<li>
 											<Link to="/policy-policy">Privacy Policy</Link>
 										</li>
 										<li>
-											<Link to="#">Sitemap</Link>
+											<Link to="/sitemap">Sitemap</Link>
 										</li>
 									</ul>
 								</div>
 								<div className="col">
 									<ul className="footer-links">
 										<li>
-											<Link to="#">Airport Guide</Link>
+											<Link to="/airport-guide">Airport Guide</Link>
 										</li>
 										<li>
-											<Link to="#">About Us</Link>
+											<Link to="/about">About Us</Link>
 										</li>
 									</ul>
 								</div>

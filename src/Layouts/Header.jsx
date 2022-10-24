@@ -112,7 +112,7 @@ const Header = () => {
 									<li class="nav-item"> <a class="nav-link" href="/parking-types">Parking Types</a> </li>
 									<li class="nav-item"> <a class="nav-link" href="/faqs">Faqs</a> </li>
 									<li class="nav-item">
-										<a class="nav-achr">
+										<a class="nav-achr" href='/help-desk'>
 											<button class="btn btn-primary" type="button">Customer Support</button>
 										</a>
 									</li>

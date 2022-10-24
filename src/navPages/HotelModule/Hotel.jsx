@@ -75,7 +75,7 @@ const Hotel = () => {
                             <div class="hotel-facility">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="assets/images/icons/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
+                                        <img src="assets/images/icons/hotel/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
                                     </div>
                                     <div class="col-md-8">
                                         <h5 class="hotelfac-heading">Business Lounges</h5>
@@ -85,30 +85,30 @@ const Hotel = () => {
                             <div class="hotel-facility">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="assets/images/icons/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
+                                        <img src="assets/images/icons/hotel/upgrade.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
                                     </div>
                                     <div class="col-md-8">
-                                        <h5 class="hotelfac-heading">Business Lounges</h5>
+                                        <h5 class="hotelfac-heading">Upgrades</h5>
                                     </div>
                                 </div>
                             </div>
                             <div class="hotel-facility">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="assets/images/icons/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
+                                        <img src="assets/images/icons/hotel/table.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
                                     </div>
                                     <div class="col-md-8">
-                                        <h5 class="hotelfac-heading">Business Lounges</h5>
+                                        <h5 class="hotelfac-heading">Meeting Rooms</h5>
                                     </div>
                                 </div>
                             </div>
                             <div class="hotel-facility">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="assets/images/icons/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
+                                        <img src="assets/images/icons/hotel/play.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
                                     </div>
                                     <div class="col-md-8">
-                                        <h5 class="hotelfac-heading">Business Lounges</h5>
+                                        <h5 class="hotelfac-heading">Play Area</h5>
                                     </div>
                                 </div>
                             </div>
@@ -117,40 +117,40 @@ const Hotel = () => {
                             <div class="hotel-facility">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="assets/images/icons/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
+                                        <img src="assets/images/icons/hotel/phone.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
                                     </div>
                                     <div class="col-md-8">
-                                        <h5 class="hotelfac-heading">Business Lounges</h5>
+                                        <h5 class="hotelfac-heading">Phone Charging</h5>
                                     </div>
                                 </div>
                             </div>
                             <div class="hotel-facility">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="assets/images/icons/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
+                                        <img src="assets/images/icons/hotel/make.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
                                     </div>
                                     <div class="col-md-8">
-                                        <h5 class="hotelfac-heading">Business Lounges</h5>
+                                        <h5 class="hotelfac-heading">Makeover</h5>
                                     </div>
                                 </div>
                             </div>
                             <div class="hotel-facility">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="assets/images/icons/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
+                                        <img src="assets/images/icons/hotel/diet.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
                                     </div>
                                     <div class="col-md-8">
-                                        <h5 class="hotelfac-heading">Business Lounges</h5>
+                                        <h5 class="hotelfac-heading">Food</h5>
                                     </div>
                                 </div>
                             </div>
                             <div class="hotel-facility">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="assets/images/icons/fac-1.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
+                                        <img src="assets/images/icons/hotel/247.png" class="img-fluid hotelfac-icon" alt="Lounges icons" />
                                     </div>
                                     <div class="col-md-8">
-                                        <h5 class="hotelfac-heading">Business Lounges</h5>
+                                        <h5 class="hotelfac-heading">24/7 Service</h5>
                                     </div>
                                 </div>
                             </div>

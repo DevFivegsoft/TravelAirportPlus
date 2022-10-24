@@ -1,5 +1,5 @@
 import React from 'react'
-import Banner from './homeCom/Banner';
+import Banner from '../navPages/homeCom/Banner';
 
 const AllAirports = () => {
     return (
